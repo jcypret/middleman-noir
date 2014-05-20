@@ -1,0 +1,10 @@
+{
+  "name": "website",
+  "version": "0.0.0",
+  "dependencies": {
+      "stylus": "latest",
+      "jeet": "latest",
+      "rupture": "latest",
+      "axis-css": "latest"
+  }
+}

@@ -7,6 +7,9 @@
 # Ignore bundler config
 /.bundle
 
+# Ignore node packages
+/node_modules
+
 # Ignore the build directory
 /build
 
@@ -18,3 +21,4 @@
 .DS_Store
 
 /vendor
+Gemfile.lock

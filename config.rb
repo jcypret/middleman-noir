@@ -1,4 +1,4 @@
-require 'page_title'
+Stylus.use('jeet', 'rupture', 'axis-css')
 
 set :images_dir, 'images'
 set :css_dir, 'stylesheets'
@@ -6,10 +6,9 @@ set :js_dir, 'javascripts'
 set :fonts_dir, 'fonts'
 set :partials_dir, 'partials'
 
+activate :title
 activate :directory_indexes
 activate :autoprefixer, browsers: ['last 2 versions', 'ie 8', 'ie 9']
-activate :bower
-activate :page_title
 
 configure :development do
 	activate :livereload
