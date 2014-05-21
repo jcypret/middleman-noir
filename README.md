@@ -24,7 +24,7 @@ Install Middleman:
 
 Clone this repository into your `~/.middleman` folder:
 
-    git clone git@github.com:jcypret/dark-alley.git ~/.middleman
+    git clone git@github.com:jcypret/dark-alley.git ~/.middleman/dark-alley
 
 Generate new project based on the Dark Alley template:
 
