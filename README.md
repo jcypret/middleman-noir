@@ -10,7 +10,7 @@ A [Middleman](http://middlemanapp.com) project template with intriguing options 
 * [Stylus](http://learnboost.github.io/stylus/) for CSS
     - [Jeet](http://jeet.gs) for grid system
     - [Rupture](http://jenius.github.io/rupture/) for responsive breakpoints
-    - [Axis](http://roots.cx/axis/) for mixins
+    - [Nib](http://visionmedia.github.io/nib/) for mixins
 * [Coffeescript](http://coffeescript.org) for Javascript
 * [Bower](http://bower.io) for front-end package management
 

@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "dependencies": {
       "stylus": "latest",
+      "nib": "latest",
       "jeet": "latest",
       "rupture": "latest",
-      "axis-css": "latest",
       "bower": "latest",
       "autoprefixer-stylus": "latest"
   }
