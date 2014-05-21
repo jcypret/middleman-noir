@@ -24,11 +24,11 @@ Install Middleman:
 
 Clone this repository into your `~/.middleman` folder:
 
-    git clone git@github.com:jcypret/middleman-noir.git ~/.middleman/middleman-noir
+    git clone git@github.com:jcypret/middleman-noir.git ~/.middleman/noir
 
-Generate new project based on the Dark Alley template:
+Generate new project based on the Middleman Noir template:
 
-    middleman init your_project_name --template=middleman-noir
+    middleman init your_project_name --template=noir
 
 Install Dependencies:
 
