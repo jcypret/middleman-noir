@@ -9,6 +9,7 @@ set :partials_dir, 'partials'
 activate :title
 activate :directory_indexes
 activate :autoprefixer, browsers: ['last 2 versions', 'ie 8', 'ie 9']
+activate :sprockets
 
 configure :development do
 	activate :livereload

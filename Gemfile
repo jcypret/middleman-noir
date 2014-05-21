@@ -5,6 +5,7 @@ gem 'middleman', '~>3.3.2'
 gem 'middleman-livereload'
 gem 'middleman-bower'
 gem 'middleman-title'
+gem 'middleman-sprockets'
 
 gem 'slim'
 gem 'stylus'
