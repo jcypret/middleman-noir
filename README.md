@@ -1,8 +1,8 @@
-# Dark Alley
+# Middleman Noir
 
-A Middleman project template with intriguing options not chosen from mainstream.
+A [Middleman](http://middlemanapp.com) project template with intriguing options not chosen from mainstream.
 
-![Dark Alley](https://raw.githubusercontent.com/jcypret/dark-alley/master/dark-alley.jpg)
+![Middleman Noir](https://raw.githubusercontent.com/jcypret/middleman-noir/master/middleman-noir.jpg)
 
 ## Features
 
@@ -24,11 +24,11 @@ Install Middleman:
 
 Clone this repository into your `~/.middleman` folder:
 
-    git clone git@github.com:jcypret/dark-alley.git ~/.middleman/dark-alley
+    git clone git@github.com:jcypret/middleman-noir.git ~/.middleman/middleman-noir
 
 Generate new project based on the Dark Alley template:
 
-    middleman init your_project_name --template=dark-alley
+    middleman init your_project_name --template=middleman-noir
 
 Install Dependencies:
 
