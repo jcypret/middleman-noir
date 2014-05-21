@@ -7,10 +7,13 @@ A [Middleman](http://middlemanapp.com) project template with intriguing options 
 ## Features
 
 * [Slim](http://slim-lang.com) for HTML
+* [Normalize](http://necolas.github.io/normalize.css/) for CSS reset
 * [Stylus](http://learnboost.github.io/stylus/) for CSS
     - [Jeet](http://jeet.gs) for grid system
     - [Rupture](http://jenius.github.io/rupture/) for responsive breakpoints
     - [Nib](http://visionmedia.github.io/nib/) for mixins
+    - [Autoprefixer](https://github.com/ai/autoprefixer) for vendor prefixes
+* [SMACCS](http://smacss.com) for CSS structure
 * [Coffeescript](http://coffeescript.org) for Javascript
 * [Bower](http://bower.io) for front-end package management
 
