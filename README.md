@@ -32,5 +32,5 @@ Generate new project based on the Middleman Noir template:
 
 Install Dependencies:
 
-    $ bundle install
     $ npm install
+    $ bower install

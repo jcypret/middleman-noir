@@ -5,6 +5,7 @@
       "stylus": "latest",
       "jeet": "latest",
       "rupture": "latest",
-      "axis-css": "latest"
+      "axis-css": "latest",
+      "bower": "latest"
   }
 }
