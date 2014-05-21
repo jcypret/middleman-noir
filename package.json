@@ -6,6 +6,7 @@
       "jeet": "latest",
       "rupture": "latest",
       "axis-css": "latest",
-      "bower": "latest"
+      "bower": "latest",
+      "autoprefixer-stylus": "latest"
   }
 }

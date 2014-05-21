@@ -2,10 +2,10 @@ source 'https://rubygems.org'
 
 gem 'middleman', '~>3.3.2'
 
-gem 'middleman-livereload'
 gem 'middleman-bower'
-gem 'middleman-title'
+gem 'middleman-livereload'
 gem 'middleman-sprockets'
+gem 'middleman-title'
 
 gem 'slim'
 gem 'stylus'
