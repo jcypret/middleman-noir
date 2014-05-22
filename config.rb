@@ -10,7 +10,7 @@ activate :title
 activate :directory_indexes
 
 # Add bower_components folder to Sprockets path
-ready { sprockets.append_path File.join root, 'bower_components' }
+sprockets.append_path File.join(root, 'bower_components')
 
 configure :development do
 	activate :livereload
@@ -19,6 +19,6 @@ end
 configure :build do
   activate :minify_css
   activate :minify_javascript
-  # activate :asset_hash
+  activate :asset_hash
   activate :relative_assets
 end
