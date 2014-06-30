@@ -16,6 +16,10 @@ A [Middleman](http://middlemanapp.com) project template with intriguing options 
     - [Autoprefixer](https://github.com/ai/autoprefixer) for vendor prefixes
 * [Coffeescript](http://coffeescript.org) for Javascript
 * [Bower](http://bower.io) for front-end package management
+* [dotenv](https://github.com/bkeepers/dotenv) for configuration variables
+* [Middleman Title](https://github.com/jcypret/middleman-title) for setting page titles
+* [Middleman Search Engine Sitemap](https://github.com/Aupajo/middleman-search_engine_sitemap) for generating XML sitemap
+* [Browse Happy](http://browsehappy.com) for displaying upgrade notice for old browsers
 
 ## Installation
 
